@@ -1,0 +1,21 @@
+.vscode/
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dSYM/
+*.swp
+*.log
+.DS_Store
+/build/
+cmake-build-*/
+compile_commands.json
+node_modules/
+venv/
+.env
+__pycache__/
+# local test artifacts
+test.cpp
+test_bin
+test_bin2
